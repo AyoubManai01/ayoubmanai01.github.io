@@ -1,106 +1,110 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "Junior Full Stack Developer",
-    "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
+    "name": "Ayoub Manai",
+    "label": "Junior IT Consultant and Software Engineering student",
+    "image": "/mypic.jpg",
+    "email": "ayoubmanai000@gmail.com",
+    "phone": "+216 96 789 851",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "A recently graduated ICT student with a strong passion for cybersecurity, now working as a Junior IT Consultant. I actively participate in CTF competitions and continuously seek opportunities to expand my knowledge across various cybersecurity domains. Dedicated to enhancing my skills by exploring different CTF categories and staying up to date with the latest developments in the field.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
+      "postalCode": "",
+      "city": "Tunis",
       "countryCode": "NZ",
-      "region": "New Zealand"
+      "region": "Tunisia"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
-      },
-      {
-        "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "ayoub-manai",
+        "url": "https://www.linkedin.com/in/ayoub-manai-96561324b/"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "AyoubManai01",
+        "url": "https://github.com/AyoubManai01"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
+      "name": "WYNSYS",
+      "position": "System & Network Administrator",
       "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
+      "location": "Tunis, Tunisia",
+      "url": "https://wynsys.com",
+      "startDate": "2024-08-19",
+      "endDate": null,
+      "summary": "Monitored and secured Windows, Linux, and SUSE systems. Implemented NOC/SOC tools including Wazuh, OpManager, and EventLog Analyzer. Configured and maintained Sophos and Fortinet firewalls, and Cisco switches.",
       "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+        ""
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
+        "System hardening and continuous monitoring across multiple platforms",
+        "Deployment and management of Wazuh, OpManager, and EventLog Analyzer",
+        "Configuration of firewalls (Sophos, Fortinet) and Cisco network devices",
+        "Ensured compliance and identified system vulnerabilities"
       ],
       "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
+        "Azure",
+        "Data Governance",
+        "SOC",
+        "Linux Administration",
+        "Active Directory"
       ]
     },
     {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
-      "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "name": "WYNSYS",
+      "position": "NOC Architect",
+      "location_type": "Hybrid",
+      "location": "Tunis, Tunisia",
+      "url": "https://wynsys.com",
+      "startDate": "2023-02-01",
+      "endDate": "2024-05-30",
+      "summary": "Configured and deployed a NOC infrastructure using ManageEngine OpManager to support WYNSYS operations. Gained hands-on experience in network monitoring, hardware maintenance, and equipment setup.",
       "highlights": [
-        "Completed several client projects successfully"
+        ""
+      ],
+      "responsibilities": [
+        "Designed and implemented NOC using ManageEngine OpManager",
+        "Performed hardware maintenance and system troubleshooting",
+        "Set up networking equipment and monitored infrastructure performance",
+        "Strengthened knowledge in network supervision and operational readiness"
       ],
       "skills": [
-        "HTML",
-        "CSS"
+        "NOC",
+        "Data Governance",
+        "System Administration",
+        "Active Directory",
+        "Network Topology"
+      ]
+    },
+    {
+      "name": "Tunisie Telecom",
+      "position": "Telecommunications Technician",
+      "location_type": "On-site",
+      "location": "Tunis, Tunisia",
+      "url": "https://www.tunisietelecom.tn",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-30",
+      "summary": "Collaborated with the technical team to gain practical experience in routers, GSM, networking, and fiber optics. Developed a real-time chat website using ReactJS and Firebase.",
+      "highlights": [
+        ""
+      ],
+      "responsibilities": [
+        "Assisted in networking tasks involving routers, GSM systems, and optical fiber setup",
+        "Gained hands-on experience in network infrastructure and telecommunications",
+        "Built a live chat web application with One-to-One communication using ReactJS and Firebase",
+        "Applied frontend and backend integration techniques for real-time data sync"
+      ],
+      "skills": [
+        "Optic Fibers",
+        "Routers",
+        "GSM Systems",
+        "React",
+        "Firebase"
       ]
     }
   ],
@@ -119,71 +123,36 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
-      "area": "Computer Science",
+      "institution": "ESPRIT - Private Higher School of Engineering and Technology",
+      "url": "http://www.esprit.tn",
+      "area": "Software engineering",
+      "studyType": "Engineering Degree",
+      "startDate": "2024-09-01",
+      "endDate": "2029-05-01"
+    },
+    {
+      "institution": "ISTIC - The Higher Institute of Information and Communications Technologies",
+      "url": "http://www.istic.rnu.tn",
+      "area": "Computer Science - Information and Communication Technologies",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
-      "courses": [
-        "CS101 - Introduction to Computer Science",
-        "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
-      ]
+      "startDate": "2021-09-01",
+      "endDate": "2024-05-01"
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "IBM - Big Data Engineer",
+      "date": "2024-03-08",
+      "issuer": "IBM",
+      "url": "https://www.credly.com/badges/7f7ec1e1-5d9b-4b7f-b0f6-26358c861792/linked_in?t=sa0zu1"
+    },
+    {
+      "name": "German B1 ÖSD",
+      "date": "2024-08-01",
+      "issuer": "ÖSD Hammamet - Tunisia"
     }
   ],
   "skills": [
-    {
-      "name": "Figma",
-      "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
-    },
-    {
-      "name": "Gitlab",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
-    },
     {
       "name": "HTML",
       "level": "Intermediate",
@@ -271,17 +240,6 @@
       ]
     },
     {
-      "name": "Next.js",
-      "level": "Beginner",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
@@ -289,6 +247,78 @@
         "Frontend",
         "JavaScript Library",
         "UI"
+      ]
+    },
+    {
+      "name": "Java",
+      "keywords": [
+        "Java"
+      ]
+    },
+    {
+      "name": "Spring",
+      "keywords": [
+        "Spring"
+      ]
+    },
+    {
+      "name": "C",
+      "keywords": [
+        "C"
+      ]
+    },
+    {
+      "name": "Python",
+      "keywords": [
+        "Python"
+      ]
+    },
+    {
+      "name": "OWASP TOP 10",
+      "keywords": [
+        "OWASP"
+      ]
+    },
+    {
+      "name": "Burp Suite",
+      "keywords": [
+        "PortSwigger"
+      ]
+    },
+    {
+      "name": "Bash Scripting",
+      "keywords": [
+        "Bash"
+      ]
+    },
+    {
+      "name": "REST APIs",
+      "keywords": [
+        "REST"
+      ]
+    },
+    {
+      "name": "Linux Administration",
+      "keywords": [
+        "Linux"
+      ]
+    },
+    {
+      "name": "Windows Administration",
+      "keywords": [
+        "Windows"
+      ]
+    },
+    {
+      "name": "Active Directory",
+      "keywords": [
+        "AD"
+      ]
+    },
+    {
+      "name": "Penetration Testing",
+      "keywords": [
+        "Pentest"
       ]
     }
   ],
