@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Print-friendly portfolio CV
 
 ![preview](https://github.com/user-attachments/assets/44c47034-06e4-412a-b9dd-014593b32215)
@@ -60,3 +61,6 @@ Wiki: [dev-portfolio](https://deepwiki.com/Smilesharks/dev-portfolio)
 CV JSON schema from [**jsonresume.org**](https://jsonresume.org/schema/)
 
 Based on [**Bartosz Jarocki - Print-friendly, minimalist CV page**](https://github.com/BartoszJarocki/cv) and [**Miguel Ángel Durán - minimalist-portfolio-json**](https://github.com/midudev/minimalist-portfolio-json)
+=======
+# ayoubmanai01.github.io
+>>>>>>> 6494bfddb4125f2afc68803127c88a823c89ec6a
