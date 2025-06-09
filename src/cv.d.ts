@@ -126,6 +126,7 @@ type Language =
 interface Projects {
   name: string;
   isActive: boolean;
+  image : string;
   description: string;
   highlights: Highlight;
   url: string;

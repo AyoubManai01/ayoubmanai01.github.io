@@ -52,16 +52,19 @@
         "Data Governance",
         "SOC",
         "Linux Administration",
-        "Active Directory"
+        "Active Directory",
+        "ISO 27001",
+        "ISO 27002",
+        "Auditing"
       ]
     },
     {
       "name": "WYNSYS",
-      "position": "NOC Architect",
+      "position": "NOC Architect Intern",
       "location_type": "Hybrid",
       "location": "Tunis, Tunisia",
       "url": "https://wynsys.com",
-      "startDate": "2023-02-01",
+      "startDate": "2024-02-01",
       "endDate": "2024-05-30",
       "summary": "Configured and deployed a NOC infrastructure using ManageEngine OpManager to support WYNSYS operations. Gained hands-on experience in network monitoring, hardware maintenance, and equipment setup.",
       "highlights": [
@@ -83,7 +86,7 @@
     },
     {
       "name": "Tunisie Telecom",
-      "position": "Telecommunications Technician",
+      "position": "Telecommunications Technician Intern",
       "location_type": "On-site",
       "location": "Tunis, Tunisia",
       "url": "https://www.tunisietelecom.tn",
@@ -128,7 +131,7 @@
       "area": "Software engineering",
       "studyType": "Engineering Degree",
       "startDate": "2024-09-01",
-      "endDate": "2029-05-01"
+      "endDate": "2028-05-01"
     },
     {
       "institution": "ISTIC - The Higher Institute of Information and Communications Technologies",
@@ -349,46 +352,63 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
-      "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
-      ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
-    },
-    {
-      "name": "Weather App",
+      "name": "Cryptography Author",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "image" : "/cyberspark.png",
+      "description": "Contributed to CyberSpark event as a Cryptography author, where I published five tasks about cryptography security. ",
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
+        "Made 5 Crypto tasks featuring vulnerable cryptographic schemas",
+        "Includes RSA, Weak encryption, Bruteforce ..."
       ],
-      "url": "https://weatherapp.com"
+      "url": "",
+      "github": ""
     },
     {
-      "name": "Task Manager",
+      "name": "Library Management System",
       "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
+      "image" : "/library.png",
+      "description": "Developed a library management system using JavaFX, Java and MySQL.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Featuring various APIs and real time data.",
+        "Responsive design and Minimalistic"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "url": "https://github.com/AyoubManai01/Maktabti",
+      "github": "https://github.com/AyoubManai01/Maktabti"
     },
     {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Personal Website",
+      "isActive": true,
+      "image" : "/cv.png",
+      "description": "A simple minimalistic CV-like website built to feature my work, projects, experience all in one.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Built using Astro, TailwindCSS",
+        "Regularly updating and deploying changes to prod"
       ],
-      "url": "https://ecommerce.com"
+      "url": "https://github.com/AyoubManai01/ayoubmanai01.github.io",
+      "github": "https://github.com/AyoubManai01/ayoubmanai01.github.io"
+    },
+    {
+      "name": "Student Housing Management System",
+      "isActive": true,
+      "image" : "/springcrud.png",
+      "description": "A Student housing application using Springboot, MySQL",
+      "highlights": [
+        "Built using Springboot, MySQL"
+      ],
+      "url": "https://github.com/AyoubManai01/SpringCRUD",
+      "github": "https://github.com/AyoubManai01/SpringCRUD"
+    },
+    {
+      "name": "Git Project Management System",
+      "isActive": true,
+      "image" : "/entreprise.png",
+      "description": "An academic project for managing and monitoring students' projects on Github.",
+      "highlights": [
+        "Built using Spring, Angular and MySQL.",
+        "Implemented Git API for monitoring student's projects in real-time."
+      ],
+      "url": "https://github.com/AyoubManai01/WynSync",
+      "github": "https://github.com/AyoubManai01/WynSync"
     }
   ]
 }
