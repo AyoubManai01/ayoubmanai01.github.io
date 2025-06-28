@@ -410,5 +410,102 @@
       "url": "https://github.com/AyoubManai01/WynSync",
       "github": "https://github.com/AyoubManai01/WynSync"
     }
+  ],
+  "achievements": [
+    {
+      "name": "Hackfest'8 SUP'COM CTF Finalist",
+      "isActive": true,
+      "image" : "/hackfest8.jpg",
+      "description": "Ranked 8th place out of top national competitors in the annual SUP'COM CTF.",
+      "highlights": [
+        "Qualified for the finals for the second consecutive year. Continued to strengthen my skills in cryptography and digital forensics, demonstrating consistency and growth in competitive cybersecurity.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_ctf-cybersecurity-emp0wr3d-activity-7189182314453610496-COoO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    },
+    {
+      "name": "ISI Mini-CTF v2.0 Winner",
+      "isActive": true,
+      "image" : "/ISIwinner.jpg",
+      "description": "Secured the 1st place in an 8-Hour On-Site CTF Competition that was held in ISI Ariana.",
+      "highlights": [
+        "Managed to solve Cryptography, Binary Exploitation and Hardware challenges.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_ctf-cybersecurity-activity-7139542071589191680-ewzc?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    },
+    {
+      "name": "Hackfest'7 SUP'COM CTF Finalist",
+      "isActive": true,
+      "image" : "/hackfest7.PNG",
+      "description": "Ranked 9th place out of top national competitors in the annual SUP'COM CTF.",
+      "highlights": [
+        "I managed to solve Cryptography and Forensics challenges. In the Qualification phase, my team secured the #13 spot.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.facebook.com/share/p/14GFKKtjdc1/",
+      "github": ""
+    },
+    {
+      "name": "CyberMaze CTF ISET'COM",
+      "isActive": true,
+      "image" : "/cybermaze.jpg",
+      "description": "Secured the 4th place among +50 teams in the CyberMaze CTF held at ISET'COM.",
+      "highlights": [
+        "Solved Misc and Pwn challenges.",
+        "#Ret2Cringe"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_ctf-cybersecurity-activity-7138275889242329088-liz8?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    },
+    {
+      "name": "ISET Charguia FriendlyCTF",
+      "isActive": true,
+      "image" : "/isetch.jpg",
+      "description": "Secured the 4th place in the ISET Charguia online CTF.",
+      "highlights": [
+        "Had fun solving Binary Exploitation and Cryptography.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_cybersecurity-ctf-capturetheflag-activity-7145139419853869056-V5RK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    },
+    {
+      "name": "AfricaCrypt 2023 - Tunisia",
+      "isActive": true,
+      "image" : "/africacrypt.jpg",
+      "description": "Ranked 15th among +50 teams and qualified to the finals",
+      "highlights": [
+        "Managed to Solve Cryptography challenges and a Binary Exploitation Challenge.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.facebook.com/profile.php?id=100093548018364",
+      "github": ""
+    },
+    {
+      "name": "ISI QUALS 2023",
+      "isActive": true,
+      "image" : "/isiquals.jpg",
+      "description": "Ranked 8th among 60 teams and qualified to the finals in the annual CTF of ISI Arianna.",
+      "highlights": [
+        "Managed to Solve Cryptography and Web challenges.",
+        "#Emp0wR3D"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_securinetsabrisi-beabrsecurityabrsmart-thinkabrsecurity-activity-7036415302900854784-zdOy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    },
+    {
+      "name": "SAGEMCOM Coding Game Challenge - ISTIC Borj-Cedria",
+      "isActive": true,
+      "image" : "/sagemcom.jpg",
+      "description": "Secured the 3rd among 165 student in my university. Featuring 39 questions in total.",
+      "highlights": [
+        "Got a global score of 47%. solving C, Networking and Linux interview questions"
+      ],
+      "url": "https://www.linkedin.com/posts/ayoub-manai-96561324b_i-am-delighted-to-announce-my-achievement-activity-7132819966831079424-Behh?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD3ZYp0B2DR3lW8v8fIWo3GekXdLEDpVyK4",
+      "github": ""
+    }
   ]
 }
